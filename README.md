@@ -35,7 +35,7 @@ Before running this program please ensure you have the following:-
 5. os --> No need for installation
 
 # Additionals
-- **IDE:** VisualStudioCode
+- **IDE Used:** VisualStudioCode
 - **Python version:** 3.10
 - **customtkinter:** 5.1.2
 - **Pillow:** 9.4.0
