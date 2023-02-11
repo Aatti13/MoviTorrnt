@@ -34,3 +34,10 @@ Before running this program please ensure you have the following:-
 4. pillow(PIL) --> (pip install pillow)
 5. os --> No need for installation
 
+# Additionals
+- **IDE:** VisualStudioCode
+- **Python version:** 3.10
+- **customtkinter:** 5.1.2
+- **Pillow:** 9.4.0
+- **requests:** 2.28.2
+- **urllib3:** 1.26.14
